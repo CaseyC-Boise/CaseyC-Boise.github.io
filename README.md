@@ -1,4 +1,4 @@
-# Domain: CaseyC-Boise.github.io
+# CaseyC-Boise.github.io
 _My First GitHub Pages Experience_
 
 ## Academics
@@ -10,8 +10,7 @@ _My First GitHub Pages Experience_
 
 ## Passions
 * I have a passion for computers, especially when mentioning hardware
-* I own two desktop computers personally, with one of them having been built by me\
+* I own two desktop computers personally, with one of them having been built by me
 
 ## Thank You
 **_Thank you For Visiting my Page!_**
-
